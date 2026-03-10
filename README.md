@@ -1,5 +1,6 @@
 # GSoC 2026 Preparation & Contribution Roadmap
 **Name:** AKSHAY JAISWAL
+
 **Focus:** Data Analytics | Machine Learning | Open Source Infrastructure
 
 ## 🚀 Professional Experience
