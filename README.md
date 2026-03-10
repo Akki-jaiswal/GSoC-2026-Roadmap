@@ -4,7 +4,7 @@
 **Focus:** Data Analytics | Machine Learning | Open Source Infrastructure
 
 ## 🚀 Professional Experience
-* **Project Admin @ GSSoC '25 (GirlScript Summer of Code):** Managed repository health, reviewed Pull Requests, and mentored contributors within the ecosystem.
+* **Project Admin @ GSSoC '25 (GirlScript Summer of Code):** Managed [repository](http://github.com/Akki-jaiswal/pong-game) health, reviewed Pull Requests, and mentored contributors within the ecosystem.
 * **Aspiring GSoC '26 Contributor:** Actively contributing to the **NumFOCUS** umbrella (specifically Matplotlib).
 
 ## 📚 Current Learning Goals
